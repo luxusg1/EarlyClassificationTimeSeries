@@ -1,10 +1,10 @@
 # EarlyClassificationTimeSeries
 This repository contains an implementation of the paper "A deep reinforcement learning approach for early classification of time series" published in 2018 26th European Signal Processing Conference (EUSIPCO)
 
-##Data
+## Data
 The data used in this project is the GunPoints datasets which comes from the UCR/UEA archive 
 
-##Code
+## Code
 The code is divided as follows:
 * The [Train.py](#Train.py) python file contains the necessary code to run the train
 * The [Agent.py](#Agent.py) python file contains the necessary code about the Agent (model, memory, ...)
@@ -18,7 +18,7 @@ $ python Train.py
 
 ```
 
-##Prerequistes 
+## Prerequistes 
 All python packages needes are listed in [pip-requirement.txt](#pip-requirement.txt) file and can be installed simply using the pip command:
 
 * [numpy](www.numpy.org)
