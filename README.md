@@ -19,7 +19,7 @@ $ python Train.py
 ```
 
 ## Prerequistes 
-All python packages needes are listed in [pip-requirement.txt](#pip-requirement.txt) file and can be installed simply using the pip command:
+All python packages needes are listed in [pip-requirement.txt](pip-requirement.txt) file and can be installed simply using the pip command:
 
 * [numpy](https://www.numpy.org)
 * [pandas](https://pandas.pydata.org)
