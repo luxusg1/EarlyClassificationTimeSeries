@@ -21,14 +21,15 @@ $ python Train.py
 ## Prerequistes 
 All python packages needes are listed in [pip-requirement.txt](pip-requirement.txt) file and can be installed simply using the pip command:
 
-* [numpy](https://www.numpy.org)
-* [pandas](https://pandas.pydata.org)
-* [sklearn](https://scikit-learn.org/stable/)
-* [scipy](https://www.scipy.org)
-* [matplotlib](https://matplotlib.org)
-* [pyts](https://pypi.org/project/pyts/)
-* [tensorflow-gpu](https://www.tensorflow.org)
-* [keras](https://keras.io)
+* [numpy](https://www.numpy.org) version 1.18.1 or later
+* [pandas](https://pandas.pydata.org) version 1.0.0 or later
+* [scikit-learn](https://scikit-learn.org/stable/) version 0.22.1 or later
+* [scipy](https://www.scipy.org) version 1.4.1 or later
+* [matplotlib](https://matplotlib.org) version 3.1.3 or later
+* [pyts](https://pypi.org/project/pyts/) version 0.10.0 or later 
+* [tensorflow-gpu](https://www.tensorflow.org) version 1.15.0 or later 
+* [keras](https://keras.io) version 2.2.4 or later
+* [h5py](https://www.h5py.org/) version 2.10.0 or later
 
 
 
