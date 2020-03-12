@@ -1,5 +1,5 @@
 # A deep reinforcement learning approach for early classification of time series
-This repository contains an implementation of the paper "A deep reinforcement learning approach for early classification of time series" published in 2018 26th European Signal Processing Conference (EUSIPCO) available [here](https://hal.archives-ouvertes.fr/hal-01825472/document).
+This repository contains an implementation of the [paper](https://hal.archives-ouvertes.fr/hal-01825472/document). "A deep reinforcement learning approach for early classification of time series" published in 2018 26th European Signal Processing Conference (EUSIPCO)
 
 ## Data
 The data used in this project is the [GunPoints datasets](http://timeseriesclassification.com/description.php?Dataset=GunPoint)  which comes from the [UCR/UEA archive](http://timeseriesclassification.com/TSC.zip) 
